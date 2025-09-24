@@ -4,7 +4,7 @@
 **tuvya-bot/Tuvya-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-🎓 I'm a Computer Science major at the University of Massachusetts Amherst (Class of 2027), with a minor in Business Administration. I'm deeply passionate about building AI systems, intelligent agents, and full-stack generative AI applications.
+🎓 I'm a Computer Science & Mathematics major at the University of Massachusetts Amherst (Class of 2027), with a minor in Business Administration. I'm deeply passionate about building AI systems, intelligent agents, and full-stack generative AI applications.
 
 ---
 
